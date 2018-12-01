@@ -1,0 +1,14 @@
+/home/luccas/Área de Trabalho/dotnet study/trabalho class libraries/ToDoList.Repositories/bin/Debug/netcoreapp2.1/ToDoList.Repositories.deps.json
+/home/luccas/Área de Trabalho/dotnet study/trabalho class libraries/ToDoList.Repositories/bin/Debug/netcoreapp2.1/ToDoList.Repositories.dll
+/home/luccas/Área de Trabalho/dotnet study/trabalho class libraries/ToDoList.Repositories/bin/Debug/netcoreapp2.1/ToDoList.Repositories.pdb
+/home/luccas/Área de Trabalho/dotnet study/trabalho class libraries/ToDoList.Repositories/bin/Debug/netcoreapp2.1/ToDoList.Domain.dll
+/home/luccas/Área de Trabalho/dotnet study/trabalho class libraries/ToDoList.Repositories/bin/Debug/netcoreapp2.1/ToDoList.Domain.pdb
+/home/luccas/Área de Trabalho/dotnet study/trabalho class libraries/ToDoList.Repositories/obj/Debug/netcoreapp2.1/ToDoList.Repositories.csprojAssemblyReference.cache
+/home/luccas/Área de Trabalho/dotnet study/trabalho class libraries/ToDoList.Repositories/obj/Debug/netcoreapp2.1/ToDoList.Repositories.csproj.CoreCompileInputs.cache
+/home/luccas/Área de Trabalho/dotnet study/trabalho class libraries/ToDoList.Repositories/obj/Debug/netcoreapp2.1/ToDoList.Repositories.AssemblyInfoInputs.cache
+/home/luccas/Área de Trabalho/dotnet study/trabalho class libraries/ToDoList.Repositories/obj/Debug/netcoreapp2.1/ToDoList.Repositories.AssemblyInfo.cs
+/home/luccas/Área de Trabalho/dotnet study/trabalho class libraries/ToDoList.Repositories/obj/Debug/netcoreapp2.1/ToDoList.Repositories.csproj.CopyComplete
+/home/luccas/Área de Trabalho/dotnet study/trabalho class libraries/ToDoList.Repositories/obj/Debug/netcoreapp2.1/ToDoList.Repositories.dll
+/home/luccas/Área de Trabalho/dotnet study/trabalho class libraries/ToDoList.Repositories/obj/Debug/netcoreapp2.1/ToDoList.Repositories.pdb
+/home/luccas/Área de Trabalho/dotnet study/trabalho class libraries/ToDoList.Repositories/bin/Debug/netcoreapp2.1/ToDoList.Repositories.runtimeconfig.json
+/home/luccas/Área de Trabalho/dotnet study/trabalho class libraries/ToDoList.Repositories/bin/Debug/netcoreapp2.1/ToDoList.Repositories.runtimeconfig.dev.json

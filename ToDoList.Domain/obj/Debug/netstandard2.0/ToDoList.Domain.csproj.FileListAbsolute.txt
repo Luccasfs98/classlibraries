@@ -1,0 +1,9 @@
+/home/luccas/Área de Trabalho/dotnet study/trabalho class libraries/ToDoList.Domain/bin/Debug/netstandard2.0/ToDoList.Domain.deps.json
+/home/luccas/Área de Trabalho/dotnet study/trabalho class libraries/ToDoList.Domain/bin/Debug/netstandard2.0/ToDoList.Domain.dll
+/home/luccas/Área de Trabalho/dotnet study/trabalho class libraries/ToDoList.Domain/bin/Debug/netstandard2.0/ToDoList.Domain.pdb
+/home/luccas/Área de Trabalho/dotnet study/trabalho class libraries/ToDoList.Domain/obj/Debug/netstandard2.0/ToDoList.Domain.csprojAssemblyReference.cache
+/home/luccas/Área de Trabalho/dotnet study/trabalho class libraries/ToDoList.Domain/obj/Debug/netstandard2.0/ToDoList.Domain.csproj.CoreCompileInputs.cache
+/home/luccas/Área de Trabalho/dotnet study/trabalho class libraries/ToDoList.Domain/obj/Debug/netstandard2.0/ToDoList.Domain.AssemblyInfoInputs.cache
+/home/luccas/Área de Trabalho/dotnet study/trabalho class libraries/ToDoList.Domain/obj/Debug/netstandard2.0/ToDoList.Domain.AssemblyInfo.cs
+/home/luccas/Área de Trabalho/dotnet study/trabalho class libraries/ToDoList.Domain/obj/Debug/netstandard2.0/ToDoList.Domain.dll
+/home/luccas/Área de Trabalho/dotnet study/trabalho class libraries/ToDoList.Domain/obj/Debug/netstandard2.0/ToDoList.Domain.pdb
